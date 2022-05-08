@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://yatanco.github.io/sturdy-broccoli"
 title        = "Yatans Blog Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -50,3 +50,6 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+
+# This sets the title of the directory where hugo builds and pushes the final site when running "Hugo" (ie, without "server")
+publishdir = "public"
