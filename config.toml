@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://yatanco.github.io/sturdy-broccoli/"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
