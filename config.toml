@@ -51,4 +51,4 @@ paginate     = 10
     url        = "/posts"
 
 # This sets the title of the directory where hugo builds and pushes the final site when running "Hugo" (ie, without "server")
-# publishDir = "docs"
+#publishDir = "docs"
