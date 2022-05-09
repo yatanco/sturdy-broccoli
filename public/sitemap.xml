@@ -4,10 +4,10 @@
   <url>
     <loc>localhost/blog/</loc>
   </url><url>
-    <loc>localhost/</loc>
-  </url><url>
     <loc>localhost/series/</loc>
   </url><url>
     <loc>localhost/tags/</loc>
+  </url><url>
+    <loc>localhost/</loc>
   </url>
 </urlset>
